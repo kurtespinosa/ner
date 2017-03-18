@@ -1,0 +1,4 @@
+  File "bi_lstm_cnn_crf4.py", line 225
+    evaluate performance on dev data
+                       ^
+SyntaxError: invalid syntax

@@ -1,0 +1,274 @@
+2016-08-12 12:21:39,689 - LoadData - INFO - Reading data from training set...
+2016-08-12 12:21:39,904 - LoadData - INFO - #sentences: 2394, #tokens: 46469
+2016-08-12 12:21:39,904 - LoadData - INFO - Reading data from dev set...
+2016-08-12 12:21:39,977 - LoadData - INFO - #sentences: 800, #tokens: 15483
+2016-08-12 12:21:39,978 - LoadData - INFO - Reading data from test set...
+2016-08-12 12:21:40,054 - LoadData - INFO - #sentences: 1000, #tokens: 16261
+2016-08-12 12:21:40,054 - LoadData - INFO - word alphabet size: 21
+2016-08-12 12:21:40,054 - LoadData - INFO - label alphabet size: 21
+2016-08-12 12:21:40,055 - LoadData - INFO - Maximum length of training set is 39
+2016-08-12 12:21:40,055 - LoadData - INFO - Maximum length of dev set is 39
+2016-08-12 12:21:40,055 - LoadData - INFO - Maximum length of test set is 41
+2016-08-12 12:21:40,055 - LoadData - INFO - Maximum length used for training is 41
+2016-08-12 12:21:40,055 - LoadData - INFO - Generating data with fine tuning...
+2016-08-12 12:21:40,055 - LoadData - INFO - Loading GloVe ...
+2016-08-12 12:27:36,839 - LoadData - INFO - Dimension of embedding is 300, Caseless: 1
+2016-08-12 12:27:37,238 - LoadData - INFO - character alphabet size: 25
+2016-08-12 12:27:37,238 - LoadData - INFO - Maximum character length of training set is 13
+2016-08-12 12:27:37,238 - LoadData - INFO - Maximum character length of dev set is 13
+2016-08-12 12:27:37,239 - LoadData - INFO - Maximum character length of test set is 13
+2016-08-12 12:27:37,239 - LoadData - INFO - Maximum character length used for training is 13
+2016-08-12 12:27:39,035 - BiLSTM-CNN-CRF - INFO - constructing network...
+2016-08-12 12:27:39,906 - BiLSTM-CNN-CRF - INFO - Network structure: hidden=200, filter=30
+2016-08-12 12:29:12,902 - BiLSTM-CNN-CRF - INFO - Start training: momentum with regularization: none(0.000000), dropout: True, fine tune: True (#training data: 2394, batch size: 10, clip: 5.0, peepholes: False)...
+Epoch 1 (learning rate=0.0100, decay rate=0.0500): 
+2016-08-12 12:29:12,903 - BiLSTM-CNN-CRF - INFO - Epoch 1 (learning rate=0.0100, decay rate=0.0500): 
+2016-08-12 12:29:13,015 - BiLSTM-CNN-CRF - INFO - train: 10/2394 loss: 68.7332, acc: 7.17%, time left (estimated): 26.60s
+2016-08-12 12:29:13,123 - BiLSTM-CNN-CRF - INFO - train: 20/2394 loss: 36.1694, acc: 47.24%, time left (estimated): 26.06s
+2016-08-12 12:29:13,231 - BiLSTM-CNN-CRF - INFO - train: 30/2394 loss: 27.1727, acc: 62.26%, time left (estimated): 25.80s
+2016-08-12 12:29:13,339 - BiLSTM-CNN-CRF - INFO - train: 40/2394 loss: 25.4071, acc: 71.93%, time left (estimated): 25.62s
+2016-08-12 12:29:13,447 - BiLSTM-CNN-CRF - INFO - train: 50/2394 loss: 24.1891, acc: 75.30%, time left (estimated): 25.45s
+2016-08-12 12:29:13,555 - BiLSTM-CNN-CRF - INFO - train: 60/2394 loss: 20.9873, acc: 78.54%, time left (estimated): 25.31s
+2016-08-12 12:29:13,663 - BiLSTM-CNN-CRF - INFO - train: 70/2394 loss: 23.3099, acc: 79.41%, time left (estimated): 25.18s
+2016-08-12 12:29:13,771 - BiLSTM-CNN-CRF - INFO - train: 80/2394 loss: 24.5840, acc: 81.40%, time left (estimated): 25.06s
+2016-08-12 12:29:13,879 - BiLSTM-CNN-CRF - INFO - train: 90/2394 loss: 24.1628, acc: 83.04%, time left (estimated): 24.94s
+2016-08-12 12:29:13,987 - BiLSTM-CNN-CRF - INFO - train: 100/2394 loss: 24.8158, acc: 84.39%, time left (estimated): 24.82s
+2016-08-12 12:29:14,095 - BiLSTM-CNN-CRF - INFO - train: 110/2394 loss: 26.8008, acc: 85.10%, time left (estimated): 24.71s
+2016-08-12 12:29:14,203 - BiLSTM-CNN-CRF - INFO - train: 120/2394 loss: 26.2440, acc: 86.16%, time left (estimated): 24.59s
+2016-08-12 12:29:14,311 - BiLSTM-CNN-CRF - INFO - train: 130/2394 loss: 25.9499, acc: 87.05%, time left (estimated): 24.47s
+2016-08-12 12:29:14,419 - BiLSTM-CNN-CRF - INFO - train: 140/2394 loss: 26.2276, acc: 87.48%, time left (estimated): 24.36s
+2016-08-12 12:29:14,527 - BiLSTM-CNN-CRF - INFO - train: 150/2394 loss: 26.3559, acc: 87.90%, time left (estimated): 24.25s
+2016-08-12 12:29:14,635 - BiLSTM-CNN-CRF - INFO - train: 160/2394 loss: 26.2144, acc: 88.41%, time left (estimated): 24.14s
+2016-08-12 12:29:14,743 - BiLSTM-CNN-CRF - INFO - train: 170/2394 loss: 25.8104, acc: 88.77%, time left (estimated): 24.03s
+2016-08-12 12:29:14,851 - BiLSTM-CNN-CRF - INFO - train: 180/2394 loss: 24.8255, acc: 89.04%, time left (estimated): 23.92s
+2016-08-12 12:29:14,959 - BiLSTM-CNN-CRF - INFO - train: 190/2394 loss: 24.4915, acc: 88.58%, time left (estimated): 23.80s
+2016-08-12 12:29:15,067 - BiLSTM-CNN-CRF - INFO - train: 200/2394 loss: 23.6750, acc: 88.75%, time left (estimated): 23.69s
+2016-08-12 12:29:15,175 - BiLSTM-CNN-CRF - INFO - train: 210/2394 loss: 22.5668, acc: 89.07%, time left (estimated): 23.58s
+2016-08-12 12:29:15,283 - BiLSTM-CNN-CRF - INFO - train: 220/2394 loss: 21.8201, acc: 89.36%, time left (estimated): 23.47s
+2016-08-12 12:29:15,391 - BiLSTM-CNN-CRF - INFO - train: 230/2394 loss: 21.3672, acc: 89.41%, time left (estimated): 23.36s
+2016-08-12 12:29:15,499 - BiLSTM-CNN-CRF - INFO - train: 240/2394 loss: 21.1092, acc: 89.37%, time left (estimated): 23.25s
+2016-08-12 12:29:15,607 - BiLSTM-CNN-CRF - INFO - train: 250/2394 loss: 20.5108, acc: 89.61%, time left (estimated): 23.14s
+2016-08-12 12:29:15,715 - BiLSTM-CNN-CRF - INFO - train: 260/2394 loss: 19.7878, acc: 89.96%, time left (estimated): 23.03s
+2016-08-12 12:29:15,823 - BiLSTM-CNN-CRF - INFO - train: 270/2394 loss: 19.2638, acc: 90.03%, time left (estimated): 22.92s
+2016-08-12 12:29:15,931 - BiLSTM-CNN-CRF - INFO - train: 280/2394 loss: 18.6643, acc: 90.23%, time left (estimated): 22.81s
+2016-08-12 12:29:16,039 - BiLSTM-CNN-CRF - INFO - train: 290/2394 loss: 18.1178, acc: 90.37%, time left (estimated): 22.71s
+2016-08-12 12:29:16,147 - BiLSTM-CNN-CRF - INFO - train: 300/2394 loss: 17.6596, acc: 90.47%, time left (estimated): 22.60s
+2016-08-12 12:29:16,255 - BiLSTM-CNN-CRF - INFO - train: 310/2394 loss: 17.2295, acc: 90.49%, time left (estimated): 22.49s
+2016-08-12 12:29:16,363 - BiLSTM-CNN-CRF - INFO - train: 320/2394 loss: 16.7372, acc: 90.81%, time left (estimated): 22.38s
+2016-08-12 12:29:16,471 - BiLSTM-CNN-CRF - INFO - train: 330/2394 loss: 16.2989, acc: 91.07%, time left (estimated): 22.27s
+2016-08-12 12:29:16,580 - BiLSTM-CNN-CRF - INFO - train: 340/2394 loss: 15.9314, acc: 91.15%, time left (estimated): 22.17s
+2016-08-12 12:29:16,688 - BiLSTM-CNN-CRF - INFO - train: 350/2394 loss: 15.5196, acc: 91.29%, time left (estimated): 22.06s
+2016-08-12 12:29:16,796 - BiLSTM-CNN-CRF - INFO - train: 360/2394 loss: 15.1194, acc: 91.43%, time left (estimated): 21.95s
+2016-08-12 12:29:16,904 - BiLSTM-CNN-CRF - INFO - train: 370/2394 loss: 14.7782, acc: 91.51%, time left (estimated): 21.84s
+2016-08-12 12:29:17,012 - BiLSTM-CNN-CRF - INFO - train: 380/2394 loss: 14.4752, acc: 91.64%, time left (estimated): 21.73s
+2016-08-12 12:29:17,120 - BiLSTM-CNN-CRF - INFO - train: 390/2394 loss: 14.1509, acc: 91.78%, time left (estimated): 21.62s
+2016-08-12 12:29:17,228 - BiLSTM-CNN-CRF - INFO - train: 400/2394 loss: 13.8519, acc: 91.92%, time left (estimated): 21.51s
+2016-08-12 12:29:17,336 - BiLSTM-CNN-CRF - INFO - train: 410/2394 loss: 13.5989, acc: 91.95%, time left (estimated): 21.41s
+2016-08-12 12:29:17,444 - BiLSTM-CNN-CRF - INFO - train: 420/2394 loss: 13.3331, acc: 92.03%, time left (estimated): 21.30s
+2016-08-12 12:29:17,552 - BiLSTM-CNN-CRF - INFO - train: 430/2394 loss: 13.1787, acc: 92.06%, time left (estimated): 21.19s
+2016-08-12 12:29:17,660 - BiLSTM-CNN-CRF - INFO - train: 440/2394 loss: 12.9255, acc: 92.22%, time left (estimated): 21.08s
+2016-08-12 12:29:17,768 - BiLSTM-CNN-CRF - INFO - train: 450/2394 loss: 12.6789, acc: 92.32%, time left (estimated): 20.97s
+2016-08-12 12:29:17,876 - BiLSTM-CNN-CRF - INFO - train: 460/2394 loss: 12.4781, acc: 92.36%, time left (estimated): 20.86s
+2016-08-12 12:29:17,984 - BiLSTM-CNN-CRF - INFO - train: 470/2394 loss: 12.2170, acc: 92.48%, time left (estimated): 20.75s
+2016-08-12 12:29:18,092 - BiLSTM-CNN-CRF - INFO - train: 480/2394 loss: 12.0481, acc: 92.53%, time left (estimated): 20.65s
+2016-08-12 12:29:18,200 - BiLSTM-CNN-CRF - INFO - train: 490/2394 loss: 11.8295, acc: 92.62%, time left (estimated): 20.54s
+2016-08-12 12:29:18,308 - BiLSTM-CNN-CRF - INFO - train: 500/2394 loss: 11.6412, acc: 92.72%, time left (estimated): 20.43s
+2016-08-12 12:29:18,416 - BiLSTM-CNN-CRF - INFO - train: 510/2394 loss: 11.4690, acc: 92.80%, time left (estimated): 20.32s
+2016-08-12 12:29:18,524 - BiLSTM-CNN-CRF - INFO - train: 520/2394 loss: 11.3092, acc: 92.77%, time left (estimated): 20.21s
+2016-08-12 12:29:18,632 - BiLSTM-CNN-CRF - INFO - train: 530/2394 loss: 11.1717, acc: 92.75%, time left (estimated): 20.10s
+2016-08-12 12:29:18,740 - BiLSTM-CNN-CRF - INFO - train: 540/2394 loss: 10.9942, acc: 92.82%, time left (estimated): 20.00s
+2016-08-12 12:29:18,848 - BiLSTM-CNN-CRF - INFO - train: 550/2394 loss: 10.8448, acc: 92.85%, time left (estimated): 19.89s
+2016-08-12 12:29:18,956 - BiLSTM-CNN-CRF - INFO - train: 560/2394 loss: 10.6558, acc: 93.00%, time left (estimated): 19.78s
+2016-08-12 12:29:19,064 - BiLSTM-CNN-CRF - INFO - train: 570/2394 loss: 10.5371, acc: 93.02%, time left (estimated): 19.67s
+2016-08-12 12:29:19,172 - BiLSTM-CNN-CRF - INFO - train: 580/2394 loss: 10.3587, acc: 93.13%, time left (estimated): 19.56s
+2016-08-12 12:29:19,280 - BiLSTM-CNN-CRF - INFO - train: 590/2394 loss: 10.2127, acc: 93.20%, time left (estimated): 19.45s
+2016-08-12 12:29:19,388 - BiLSTM-CNN-CRF - INFO - train: 600/2394 loss: 10.0692, acc: 93.25%, time left (estimated): 19.34s
+2016-08-12 12:29:19,496 - BiLSTM-CNN-CRF - INFO - train: 610/2394 loss: 9.9118, acc: 93.35%, time left (estimated): 19.24s
+2016-08-12 12:29:19,604 - BiLSTM-CNN-CRF - INFO - train: 620/2394 loss: 9.7681, acc: 93.43%, time left (estimated): 19.13s
+2016-08-12 12:29:19,711 - BiLSTM-CNN-CRF - INFO - train: 630/2394 loss: 9.6217, acc: 93.51%, time left (estimated): 19.02s
+2016-08-12 12:29:19,819 - BiLSTM-CNN-CRF - INFO - train: 640/2394 loss: 9.4845, acc: 93.58%, time left (estimated): 18.91s
+2016-08-12 12:29:19,927 - BiLSTM-CNN-CRF - INFO - train: 650/2394 loss: 9.4039, acc: 93.56%, time left (estimated): 18.80s
+2016-08-12 12:29:20,035 - BiLSTM-CNN-CRF - INFO - train: 660/2394 loss: 9.3097, acc: 93.56%, time left (estimated): 18.69s
+2016-08-12 12:29:20,143 - BiLSTM-CNN-CRF - INFO - train: 670/2394 loss: 9.1927, acc: 93.58%, time left (estimated): 18.59s
+2016-08-12 12:29:20,251 - BiLSTM-CNN-CRF - INFO - train: 680/2394 loss: 9.1019, acc: 93.60%, time left (estimated): 18.48s
+2016-08-12 12:29:20,359 - BiLSTM-CNN-CRF - INFO - train: 690/2394 loss: 8.9940, acc: 93.62%, time left (estimated): 18.37s
+2016-08-12 12:29:20,467 - BiLSTM-CNN-CRF - INFO - train: 700/2394 loss: 8.8852, acc: 93.69%, time left (estimated): 18.26s
+2016-08-12 12:29:20,575 - BiLSTM-CNN-CRF - INFO - train: 710/2394 loss: 8.7838, acc: 93.75%, time left (estimated): 18.15s
+2016-08-12 12:29:20,683 - BiLSTM-CNN-CRF - INFO - train: 720/2394 loss: 8.6855, acc: 93.78%, time left (estimated): 18.05s
+2016-08-12 12:29:20,791 - BiLSTM-CNN-CRF - INFO - train: 730/2394 loss: 8.6275, acc: 93.76%, time left (estimated): 17.94s
+2016-08-12 12:29:20,899 - BiLSTM-CNN-CRF - INFO - train: 740/2394 loss: 8.5599, acc: 93.77%, time left (estimated): 17.83s
+2016-08-12 12:29:21,007 - BiLSTM-CNN-CRF - INFO - train: 750/2394 loss: 8.4672, acc: 93.80%, time left (estimated): 17.72s
+2016-08-12 12:29:21,115 - BiLSTM-CNN-CRF - INFO - train: 760/2394 loss: 8.4059, acc: 93.78%, time left (estimated): 17.61s
+2016-08-12 12:29:21,224 - BiLSTM-CNN-CRF - INFO - train: 770/2394 loss: 8.3695, acc: 93.70%, time left (estimated): 17.51s
+2016-08-12 12:29:21,332 - BiLSTM-CNN-CRF - INFO - train: 780/2394 loss: 8.2854, acc: 93.75%, time left (estimated): 17.40s
+2016-08-12 12:29:21,440 - BiLSTM-CNN-CRF - INFO - train: 790/2394 loss: 8.2178, acc: 93.74%, time left (estimated): 17.29s
+2016-08-12 12:29:21,549 - BiLSTM-CNN-CRF - INFO - train: 800/2394 loss: 8.1321, acc: 93.80%, time left (estimated): 17.18s
+2016-08-12 12:29:21,656 - BiLSTM-CNN-CRF - INFO - train: 810/2394 loss: 8.0507, acc: 93.83%, time left (estimated): 17.07s
+2016-08-12 12:29:21,765 - BiLSTM-CNN-CRF - INFO - train: 820/2394 loss: 7.9665, acc: 93.88%, time left (estimated): 16.97s
+2016-08-12 12:29:21,873 - BiLSTM-CNN-CRF - INFO - train: 830/2394 loss: 7.8853, acc: 93.93%, time left (estimated): 16.86s
+2016-08-12 12:29:21,981 - BiLSTM-CNN-CRF - INFO - train: 840/2394 loss: 7.8174, acc: 93.95%, time left (estimated): 16.75s
+2016-08-12 12:29:22,089 - BiLSTM-CNN-CRF - INFO - train: 850/2394 loss: 7.7456, acc: 93.97%, time left (estimated): 16.64s
+2016-08-12 12:29:22,197 - BiLSTM-CNN-CRF - INFO - train: 860/2394 loss: 7.6626, acc: 94.02%, time left (estimated): 16.53s
+2016-08-12 12:29:22,305 - BiLSTM-CNN-CRF - INFO - train: 870/2394 loss: 7.5837, acc: 94.08%, time left (estimated): 16.43s
+2016-08-12 12:29:22,413 - BiLSTM-CNN-CRF - INFO - train: 880/2394 loss: 7.5157, acc: 94.12%, time left (estimated): 16.32s
+2016-08-12 12:29:22,521 - BiLSTM-CNN-CRF - INFO - train: 890/2394 loss: 7.4434, acc: 94.18%, time left (estimated): 16.21s
+2016-08-12 12:29:22,629 - BiLSTM-CNN-CRF - INFO - train: 900/2394 loss: 7.3884, acc: 94.18%, time left (estimated): 16.10s
+2016-08-12 12:29:22,737 - BiLSTM-CNN-CRF - INFO - train: 910/2394 loss: 7.3286, acc: 94.20%, time left (estimated): 15.99s
+2016-08-12 12:29:22,845 - BiLSTM-CNN-CRF - INFO - train: 920/2394 loss: 7.2757, acc: 94.23%, time left (estimated): 15.88s
+2016-08-12 12:29:22,953 - BiLSTM-CNN-CRF - INFO - train: 930/2394 loss: 7.2230, acc: 94.23%, time left (estimated): 15.78s
+2016-08-12 12:29:23,061 - BiLSTM-CNN-CRF - INFO - train: 940/2394 loss: 7.1612, acc: 94.26%, time left (estimated): 15.67s
+2016-08-12 12:29:23,169 - BiLSTM-CNN-CRF - INFO - train: 950/2394 loss: 7.1013, acc: 94.29%, time left (estimated): 15.56s
+2016-08-12 12:29:23,277 - BiLSTM-CNN-CRF - INFO - train: 960/2394 loss: 7.0517, acc: 94.30%, time left (estimated): 15.45s
+2016-08-12 12:29:23,385 - BiLSTM-CNN-CRF - INFO - train: 970/2394 loss: 7.0076, acc: 94.32%, time left (estimated): 15.34s
+2016-08-12 12:29:23,493 - BiLSTM-CNN-CRF - INFO - train: 980/2394 loss: 6.9425, acc: 94.35%, time left (estimated): 15.24s
+2016-08-12 12:29:23,601 - BiLSTM-CNN-CRF - INFO - train: 990/2394 loss: 6.8827, acc: 94.38%, time left (estimated): 15.13s
+2016-08-12 12:29:23,709 - BiLSTM-CNN-CRF - INFO - train: 1000/2394 loss: 6.8355, acc: 94.39%, time left (estimated): 15.02s
+2016-08-12 12:29:23,817 - BiLSTM-CNN-CRF - INFO - train: 1010/2394 loss: 6.7859, acc: 94.40%, time left (estimated): 14.91s
+2016-08-12 12:29:23,925 - BiLSTM-CNN-CRF - INFO - train: 1020/2394 loss: 6.7351, acc: 94.40%, time left (estimated): 14.80s
+2016-08-12 12:29:24,033 - BiLSTM-CNN-CRF - INFO - train: 1030/2394 loss: 6.6961, acc: 94.40%, time left (estimated): 14.70s
+2016-08-12 12:29:24,141 - BiLSTM-CNN-CRF - INFO - train: 1040/2394 loss: 6.6441, acc: 94.44%, time left (estimated): 14.59s
+2016-08-12 12:29:24,249 - BiLSTM-CNN-CRF - INFO - train: 1050/2394 loss: 6.5932, acc: 94.46%, time left (estimated): 14.48s
+2016-08-12 12:29:24,357 - BiLSTM-CNN-CRF - INFO - train: 1060/2394 loss: 6.5343, acc: 94.50%, time left (estimated): 14.37s
+2016-08-12 12:29:24,465 - BiLSTM-CNN-CRF - INFO - train: 1070/2394 loss: 6.4821, acc: 94.54%, time left (estimated): 14.26s
+2016-08-12 12:29:24,573 - BiLSTM-CNN-CRF - INFO - train: 1080/2394 loss: 6.4322, acc: 94.56%, time left (estimated): 14.15s
+2016-08-12 12:29:24,681 - BiLSTM-CNN-CRF - INFO - train: 1090/2394 loss: 6.3974, acc: 94.57%, time left (estimated): 14.05s
+2016-08-12 12:29:24,789 - BiLSTM-CNN-CRF - INFO - train: 1100/2394 loss: 6.3595, acc: 94.58%, time left (estimated): 13.94s
+2016-08-12 12:29:24,897 - BiLSTM-CNN-CRF - INFO - train: 1110/2394 loss: 6.3074, acc: 94.61%, time left (estimated): 13.83s
+2016-08-12 12:29:25,005 - BiLSTM-CNN-CRF - INFO - train: 1120/2394 loss: 6.2596, acc: 94.64%, time left (estimated): 13.72s
+2016-08-12 12:29:25,113 - BiLSTM-CNN-CRF - INFO - train: 1130/2394 loss: 6.2079, acc: 94.69%, time left (estimated): 13.61s
+2016-08-12 12:29:25,221 - BiLSTM-CNN-CRF - INFO - train: 1140/2394 loss: 6.1691, acc: 94.71%, time left (estimated): 13.51s
+2016-08-12 12:29:25,329 - BiLSTM-CNN-CRF - INFO - train: 1150/2394 loss: 6.1229, acc: 94.73%, time left (estimated): 13.40s
+2016-08-12 12:29:25,437 - BiLSTM-CNN-CRF - INFO - train: 1160/2394 loss: 6.0944, acc: 94.72%, time left (estimated): 13.29s
+2016-08-12 12:29:25,545 - BiLSTM-CNN-CRF - INFO - train: 1170/2394 loss: 6.0553, acc: 94.74%, time left (estimated): 13.18s
+2016-08-12 12:29:25,653 - BiLSTM-CNN-CRF - INFO - train: 1180/2394 loss: 6.0054, acc: 94.77%, time left (estimated): 13.07s
+2016-08-12 12:29:25,761 - BiLSTM-CNN-CRF - INFO - train: 1190/2394 loss: 5.9906, acc: 94.76%, time left (estimated): 12.97s
+2016-08-12 12:29:25,869 - BiLSTM-CNN-CRF - INFO - train: 1200/2394 loss: 5.9599, acc: 94.77%, time left (estimated): 12.86s
+2016-08-12 12:29:25,977 - BiLSTM-CNN-CRF - INFO - train: 1210/2394 loss: 5.9315, acc: 94.79%, time left (estimated): 12.75s
+2016-08-12 12:29:26,085 - BiLSTM-CNN-CRF - INFO - train: 1220/2394 loss: 5.8928, acc: 94.81%, time left (estimated): 12.64s
+2016-08-12 12:29:26,193 - BiLSTM-CNN-CRF - INFO - train: 1230/2394 loss: 5.8664, acc: 94.81%, time left (estimated): 12.53s
+2016-08-12 12:29:26,301 - BiLSTM-CNN-CRF - INFO - train: 1240/2394 loss: 5.8303, acc: 94.84%, time left (estimated): 12.43s
+2016-08-12 12:29:26,409 - BiLSTM-CNN-CRF - INFO - train: 1250/2394 loss: 5.7975, acc: 94.82%, time left (estimated): 12.32s
+2016-08-12 12:29:26,517 - BiLSTM-CNN-CRF - INFO - train: 1260/2394 loss: 5.7612, acc: 94.83%, time left (estimated): 12.21s
+2016-08-12 12:29:26,626 - BiLSTM-CNN-CRF - INFO - train: 1270/2394 loss: 5.7273, acc: 94.85%, time left (estimated): 12.10s
+2016-08-12 12:29:26,734 - BiLSTM-CNN-CRF - INFO - train: 1280/2394 loss: 5.6953, acc: 94.86%, time left (estimated): 11.99s
+2016-08-12 12:29:26,842 - BiLSTM-CNN-CRF - INFO - train: 1290/2394 loss: 5.6612, acc: 94.89%, time left (estimated): 11.89s
+2016-08-12 12:29:26,950 - BiLSTM-CNN-CRF - INFO - train: 1300/2394 loss: 5.6286, acc: 94.91%, time left (estimated): 11.78s
+2016-08-12 12:29:27,058 - BiLSTM-CNN-CRF - INFO - train: 1310/2394 loss: 5.5957, acc: 94.92%, time left (estimated): 11.67s
+2016-08-12 12:29:27,166 - BiLSTM-CNN-CRF - INFO - train: 1320/2394 loss: 5.5697, acc: 94.94%, time left (estimated): 11.56s
+2016-08-12 12:29:27,274 - BiLSTM-CNN-CRF - INFO - train: 1330/2394 loss: 5.5376, acc: 94.96%, time left (estimated): 11.45s
+2016-08-12 12:29:27,382 - BiLSTM-CNN-CRF - INFO - train: 1340/2394 loss: 5.5165, acc: 94.97%, time left (estimated): 11.35s
+2016-08-12 12:29:27,490 - BiLSTM-CNN-CRF - INFO - train: 1350/2394 loss: 5.4914, acc: 94.99%, time left (estimated): 11.24s
+2016-08-12 12:29:27,598 - BiLSTM-CNN-CRF - INFO - train: 1360/2394 loss: 5.4574, acc: 95.01%, time left (estimated): 11.13s
+2016-08-12 12:29:27,706 - BiLSTM-CNN-CRF - INFO - train: 1370/2394 loss: 5.4322, acc: 95.02%, time left (estimated): 11.02s
+2016-08-12 12:29:27,814 - BiLSTM-CNN-CRF - INFO - train: 1380/2394 loss: 5.4049, acc: 95.02%, time left (estimated): 10.91s
+2016-08-12 12:29:27,922 - BiLSTM-CNN-CRF - INFO - train: 1390/2394 loss: 5.3729, acc: 95.03%, time left (estimated): 10.81s
+2016-08-12 12:29:28,030 - BiLSTM-CNN-CRF - INFO - train: 1400/2394 loss: 5.3502, acc: 95.03%, time left (estimated): 10.70s
+2016-08-12 12:29:28,138 - BiLSTM-CNN-CRF - INFO - train: 1410/2394 loss: 5.3211, acc: 95.05%, time left (estimated): 10.59s
+2016-08-12 12:29:28,246 - BiLSTM-CNN-CRF - INFO - train: 1420/2394 loss: 5.2925, acc: 95.06%, time left (estimated): 10.48s
+2016-08-12 12:29:28,354 - BiLSTM-CNN-CRF - INFO - train: 1430/2394 loss: 5.2681, acc: 95.07%, time left (estimated): 10.37s
+2016-08-12 12:29:28,462 - BiLSTM-CNN-CRF - INFO - train: 1440/2394 loss: 5.2391, acc: 95.09%, time left (estimated): 10.26s
+2016-08-12 12:29:28,570 - BiLSTM-CNN-CRF - INFO - train: 1450/2394 loss: 5.2260, acc: 95.06%, time left (estimated): 10.16s
+2016-08-12 12:29:28,678 - BiLSTM-CNN-CRF - INFO - train: 1460/2394 loss: 5.1978, acc: 95.08%, time left (estimated): 10.05s
+2016-08-12 12:29:28,786 - BiLSTM-CNN-CRF - INFO - train: 1470/2394 loss: 5.1666, acc: 95.11%, time left (estimated): 9.94s
+2016-08-12 12:29:28,894 - BiLSTM-CNN-CRF - INFO - train: 1480/2394 loss: 5.1422, acc: 95.13%, time left (estimated): 9.83s
+2016-08-12 12:29:29,002 - BiLSTM-CNN-CRF - INFO - train: 1490/2394 loss: 5.1210, acc: 95.14%, time left (estimated): 9.72s
+2016-08-12 12:29:29,110 - BiLSTM-CNN-CRF - INFO - train: 1500/2394 loss: 5.0977, acc: 95.14%, time left (estimated): 9.62s
+2016-08-12 12:29:29,218 - BiLSTM-CNN-CRF - INFO - train: 1510/2394 loss: 5.0701, acc: 95.17%, time left (estimated): 9.51s
+2016-08-12 12:29:29,326 - BiLSTM-CNN-CRF - INFO - train: 1520/2394 loss: 5.0509, acc: 95.16%, time left (estimated): 9.40s
+2016-08-12 12:29:29,434 - BiLSTM-CNN-CRF - INFO - train: 1530/2394 loss: 5.0222, acc: 95.18%, time left (estimated): 9.29s
+2016-08-12 12:29:29,542 - BiLSTM-CNN-CRF - INFO - train: 1540/2394 loss: 4.9987, acc: 95.19%, time left (estimated): 9.18s
+2016-08-12 12:29:29,650 - BiLSTM-CNN-CRF - INFO - train: 1550/2394 loss: 4.9826, acc: 95.20%, time left (estimated): 9.08s
+2016-08-12 12:29:29,758 - BiLSTM-CNN-CRF - INFO - train: 1560/2394 loss: 4.9559, acc: 95.21%, time left (estimated): 8.97s
+2016-08-12 12:29:29,866 - BiLSTM-CNN-CRF - INFO - train: 1570/2394 loss: 4.9265, acc: 95.23%, time left (estimated): 8.86s
+2016-08-12 12:29:29,974 - BiLSTM-CNN-CRF - INFO - train: 1580/2394 loss: 4.8961, acc: 95.26%, time left (estimated): 8.75s
+2016-08-12 12:29:30,082 - BiLSTM-CNN-CRF - INFO - train: 1590/2394 loss: 4.8672, acc: 95.28%, time left (estimated): 8.64s
+2016-08-12 12:29:30,190 - BiLSTM-CNN-CRF - INFO - train: 1600/2394 loss: 4.8456, acc: 95.29%, time left (estimated): 8.54s
+2016-08-12 12:29:30,298 - BiLSTM-CNN-CRF - INFO - train: 1610/2394 loss: 4.8189, acc: 95.31%, time left (estimated): 8.43s
+2016-08-12 12:29:30,406 - BiLSTM-CNN-CRF - INFO - train: 1620/2394 loss: 4.7928, acc: 95.33%, time left (estimated): 8.32s
+2016-08-12 12:29:30,514 - BiLSTM-CNN-CRF - INFO - train: 1630/2394 loss: 4.7684, acc: 95.34%, time left (estimated): 8.21s
+2016-08-12 12:29:30,622 - BiLSTM-CNN-CRF - INFO - train: 1640/2394 loss: 4.7433, acc: 95.36%, time left (estimated): 8.10s
+2016-08-12 12:29:30,730 - BiLSTM-CNN-CRF - INFO - train: 1650/2394 loss: 4.7176, acc: 95.39%, time left (estimated): 7.99s
+2016-08-12 12:29:30,838 - BiLSTM-CNN-CRF - INFO - train: 1660/2394 loss: 4.6909, acc: 95.41%, time left (estimated): 7.89s
+2016-08-12 12:29:30,946 - BiLSTM-CNN-CRF - INFO - train: 1670/2394 loss: 4.6744, acc: 95.42%, time left (estimated): 7.78s
+2016-08-12 12:29:31,054 - BiLSTM-CNN-CRF - INFO - train: 1680/2394 loss: 4.6537, acc: 95.43%, time left (estimated): 7.67s
+2016-08-12 12:29:31,162 - BiLSTM-CNN-CRF - INFO - train: 1690/2394 loss: 4.6315, acc: 95.45%, time left (estimated): 7.56s
+2016-08-12 12:29:31,271 - BiLSTM-CNN-CRF - INFO - train: 1700/2394 loss: 4.6074, acc: 95.47%, time left (estimated): 7.46s
+2016-08-12 12:29:31,379 - BiLSTM-CNN-CRF - INFO - train: 1710/2394 loss: 4.5886, acc: 95.47%, time left (estimated): 7.35s
+2016-08-12 12:29:31,487 - BiLSTM-CNN-CRF - INFO - train: 1720/2394 loss: 4.5805, acc: 95.47%, time left (estimated): 7.24s
+2016-08-12 12:29:31,595 - BiLSTM-CNN-CRF - INFO - train: 1730/2394 loss: 4.5614, acc: 95.47%, time left (estimated): 7.13s
+2016-08-12 12:29:31,703 - BiLSTM-CNN-CRF - INFO - train: 1740/2394 loss: 4.5488, acc: 95.46%, time left (estimated): 7.02s
+2016-08-12 12:29:31,811 - BiLSTM-CNN-CRF - INFO - train: 1750/2394 loss: 4.5351, acc: 95.45%, time left (estimated): 6.91s
+2016-08-12 12:29:31,919 - BiLSTM-CNN-CRF - INFO - train: 1760/2394 loss: 4.5261, acc: 95.45%, time left (estimated): 6.81s
+2016-08-12 12:29:32,027 - BiLSTM-CNN-CRF - INFO - train: 1770/2394 loss: 4.5020, acc: 95.47%, time left (estimated): 6.70s
+2016-08-12 12:29:32,135 - BiLSTM-CNN-CRF - INFO - train: 1780/2394 loss: 4.4865, acc: 95.48%, time left (estimated): 6.59s
+2016-08-12 12:29:32,243 - BiLSTM-CNN-CRF - INFO - train: 1790/2394 loss: 4.4670, acc: 95.50%, time left (estimated): 6.48s
+2016-08-12 12:29:32,351 - BiLSTM-CNN-CRF - INFO - train: 1800/2394 loss: 4.4476, acc: 95.51%, time left (estimated): 6.37s
+2016-08-12 12:29:32,459 - BiLSTM-CNN-CRF - INFO - train: 1810/2394 loss: 4.4239, acc: 95.54%, time left (estimated): 6.27s
+2016-08-12 12:29:32,567 - BiLSTM-CNN-CRF - INFO - train: 1820/2394 loss: 4.4027, acc: 95.56%, time left (estimated): 6.16s
+2016-08-12 12:29:32,675 - BiLSTM-CNN-CRF - INFO - train: 1830/2394 loss: 4.3831, acc: 95.58%, time left (estimated): 6.05s
+2016-08-12 12:29:32,783 - BiLSTM-CNN-CRF - INFO - train: 1840/2394 loss: 4.3608, acc: 95.60%, time left (estimated): 5.94s
+2016-08-12 12:29:32,891 - BiLSTM-CNN-CRF - INFO - train: 1850/2394 loss: 4.3448, acc: 95.61%, time left (estimated): 5.83s
+2016-08-12 12:29:32,999 - BiLSTM-CNN-CRF - INFO - train: 1860/2394 loss: 4.3219, acc: 95.63%, time left (estimated): 5.73s
+2016-08-12 12:29:33,107 - BiLSTM-CNN-CRF - INFO - train: 1870/2394 loss: 4.3201, acc: 95.60%, time left (estimated): 5.62s
+2016-08-12 12:29:33,215 - BiLSTM-CNN-CRF - INFO - train: 1880/2394 loss: 4.3007, acc: 95.62%, time left (estimated): 5.51s
+2016-08-12 12:29:33,323 - BiLSTM-CNN-CRF - INFO - train: 1890/2394 loss: 4.2930, acc: 95.60%, time left (estimated): 5.40s
+2016-08-12 12:29:33,431 - BiLSTM-CNN-CRF - INFO - train: 1900/2394 loss: 4.2747, acc: 95.61%, time left (estimated): 5.29s
+2016-08-12 12:29:33,539 - BiLSTM-CNN-CRF - INFO - train: 1910/2394 loss: 4.2554, acc: 95.63%, time left (estimated): 5.19s
+2016-08-12 12:29:33,647 - BiLSTM-CNN-CRF - INFO - train: 1920/2394 loss: 4.2383, acc: 95.64%, time left (estimated): 5.08s
+2016-08-12 12:29:33,755 - BiLSTM-CNN-CRF - INFO - train: 1930/2394 loss: 4.2243, acc: 95.64%, time left (estimated): 4.97s
+2016-08-12 12:29:33,863 - BiLSTM-CNN-CRF - INFO - train: 1940/2394 loss: 4.2041, acc: 95.66%, time left (estimated): 4.86s
+2016-08-12 12:29:33,971 - BiLSTM-CNN-CRF - INFO - train: 1950/2394 loss: 4.1907, acc: 95.66%, time left (estimated): 4.75s
+2016-08-12 12:29:34,079 - BiLSTM-CNN-CRF - INFO - train: 1960/2394 loss: 4.1713, acc: 95.68%, time left (estimated): 4.65s
+2016-08-12 12:29:34,187 - BiLSTM-CNN-CRF - INFO - train: 1970/2394 loss: 4.1530, acc: 95.70%, time left (estimated): 4.54s
+2016-08-12 12:29:34,295 - BiLSTM-CNN-CRF - INFO - train: 1980/2394 loss: 4.1367, acc: 95.70%, time left (estimated): 4.43s
+2016-08-12 12:29:34,403 - BiLSTM-CNN-CRF - INFO - train: 1990/2394 loss: 4.1181, acc: 95.72%, time left (estimated): 4.32s
+2016-08-12 12:29:34,511 - BiLSTM-CNN-CRF - INFO - train: 2000/2394 loss: 4.1001, acc: 95.73%, time left (estimated): 4.21s
+2016-08-12 12:29:34,619 - BiLSTM-CNN-CRF - INFO - train: 2010/2394 loss: 4.0938, acc: 95.72%, time left (estimated): 4.11s
+2016-08-12 12:29:34,727 - BiLSTM-CNN-CRF - INFO - train: 2020/2394 loss: 4.0750, acc: 95.74%, time left (estimated): 4.00s
+2016-08-12 12:29:34,835 - BiLSTM-CNN-CRF - INFO - train: 2030/2394 loss: 4.0613, acc: 95.75%, time left (estimated): 3.89s
+2016-08-12 12:29:34,943 - BiLSTM-CNN-CRF - INFO - train: 2040/2394 loss: 4.0476, acc: 95.77%, time left (estimated): 3.78s
+2016-08-12 12:29:35,051 - BiLSTM-CNN-CRF - INFO - train: 2050/2394 loss: 4.0409, acc: 95.75%, time left (estimated): 3.67s
+2016-08-12 12:29:35,159 - BiLSTM-CNN-CRF - INFO - train: 2060/2394 loss: 4.0258, acc: 95.76%, time left (estimated): 3.57s
+2016-08-12 12:29:35,267 - BiLSTM-CNN-CRF - INFO - train: 2070/2394 loss: 4.0096, acc: 95.77%, time left (estimated): 3.46s
+2016-08-12 12:29:35,375 - BiLSTM-CNN-CRF - INFO - train: 2080/2394 loss: 3.9994, acc: 95.77%, time left (estimated): 3.35s
+2016-08-12 12:29:35,483 - BiLSTM-CNN-CRF - INFO - train: 2090/2394 loss: 3.9824, acc: 95.79%, time left (estimated): 3.24s
+2016-08-12 12:29:35,591 - BiLSTM-CNN-CRF - INFO - train: 2100/2394 loss: 3.9668, acc: 95.80%, time left (estimated): 3.13s
+2016-08-12 12:29:35,699 - BiLSTM-CNN-CRF - INFO - train: 2110/2394 loss: 3.9589, acc: 95.81%, time left (estimated): 3.02s
+2016-08-12 12:29:35,807 - BiLSTM-CNN-CRF - INFO - train: 2120/2394 loss: 3.9429, acc: 95.82%, time left (estimated): 2.92s
+2016-08-12 12:29:35,915 - BiLSTM-CNN-CRF - INFO - train: 2130/2394 loss: 3.9400, acc: 95.79%, time left (estimated): 2.81s
+2016-08-12 12:29:36,023 - BiLSTM-CNN-CRF - INFO - train: 2140/2394 loss: 3.9258, acc: 95.80%, time left (estimated): 2.70s
+2016-08-12 12:29:36,131 - BiLSTM-CNN-CRF - INFO - train: 2150/2394 loss: 3.9109, acc: 95.82%, time left (estimated): 2.59s
+2016-08-12 12:29:36,239 - BiLSTM-CNN-CRF - INFO - train: 2160/2394 loss: 3.8983, acc: 95.83%, time left (estimated): 2.48s
+2016-08-12 12:29:36,347 - BiLSTM-CNN-CRF - INFO - train: 2170/2394 loss: 3.8877, acc: 95.83%, time left (estimated): 2.38s
+2016-08-12 12:29:36,455 - BiLSTM-CNN-CRF - INFO - train: 2180/2394 loss: 3.8851, acc: 95.79%, time left (estimated): 2.27s
+2016-08-12 12:29:36,564 - BiLSTM-CNN-CRF - INFO - train: 2190/2394 loss: 3.8673, acc: 95.81%, time left (estimated): 2.16s
+2016-08-12 12:29:36,672 - BiLSTM-CNN-CRF - INFO - train: 2200/2394 loss: 3.8544, acc: 95.81%, time left (estimated): 2.05s
+2016-08-12 12:29:36,780 - BiLSTM-CNN-CRF - INFO - train: 2210/2394 loss: 3.8375, acc: 95.83%, time left (estimated): 1.94s
+2016-08-12 12:29:36,888 - BiLSTM-CNN-CRF - INFO - train: 2220/2394 loss: 3.8242, acc: 95.83%, time left (estimated): 1.84s
+2016-08-12 12:29:36,996 - BiLSTM-CNN-CRF - INFO - train: 2230/2394 loss: 3.8093, acc: 95.84%, time left (estimated): 1.73s
+2016-08-12 12:29:37,104 - BiLSTM-CNN-CRF - INFO - train: 2240/2394 loss: 3.7939, acc: 95.85%, time left (estimated): 1.62s
+2016-08-12 12:29:37,212 - BiLSTM-CNN-CRF - INFO - train: 2250/2394 loss: 3.7820, acc: 95.87%, time left (estimated): 1.51s
+2016-08-12 12:29:37,320 - BiLSTM-CNN-CRF - INFO - train: 2260/2394 loss: 3.7694, acc: 95.87%, time left (estimated): 1.40s
+2016-08-12 12:29:37,428 - BiLSTM-CNN-CRF - INFO - train: 2270/2394 loss: 3.7572, acc: 95.88%, time left (estimated): 1.30s
+2016-08-12 12:29:37,536 - BiLSTM-CNN-CRF - INFO - train: 2280/2394 loss: 3.7467, acc: 95.88%, time left (estimated): 1.19s
+2016-08-12 12:29:37,644 - BiLSTM-CNN-CRF - INFO - train: 2290/2394 loss: 3.7350, acc: 95.89%, time left (estimated): 1.08s
+2016-08-12 12:29:37,752 - BiLSTM-CNN-CRF - INFO - train: 2300/2394 loss: 3.7188, acc: 95.91%, time left (estimated): 0.97s
+2016-08-12 12:29:37,860 - BiLSTM-CNN-CRF - INFO - train: 2310/2394 loss: 3.7033, acc: 95.93%, time left (estimated): 0.86s
+2016-08-12 12:29:37,968 - BiLSTM-CNN-CRF - INFO - train: 2320/2394 loss: 3.6942, acc: 95.92%, time left (estimated): 0.76s
+2016-08-12 12:29:38,077 - BiLSTM-CNN-CRF - INFO - train: 2330/2394 loss: 3.6827, acc: 95.93%, time left (estimated): 0.65s
+2016-08-12 12:29:38,185 - BiLSTM-CNN-CRF - INFO - train: 2340/2394 loss: 3.6691, acc: 95.95%, time left (estimated): 0.54s
+2016-08-12 12:29:38,293 - BiLSTM-CNN-CRF - INFO - train: 2350/2394 loss: 3.6553, acc: 95.96%, time left (estimated): 0.43s
+2016-08-12 12:29:38,401 - BiLSTM-CNN-CRF - INFO - train: 2360/2394 loss: 3.6439, acc: 95.97%, time left (estimated): 0.32s
+2016-08-12 12:29:38,509 - BiLSTM-CNN-CRF - INFO - train: 2370/2394 loss: 3.6361, acc: 95.98%, time left (estimated): 0.22s
+2016-08-12 12:29:38,617 - BiLSTM-CNN-CRF - INFO - train: 2380/2394 loss: 3.6316, acc: 95.98%, time left (estimated): 0.11s
+2016-08-12 12:29:38,725 - BiLSTM-CNN-CRF - INFO - train: 2390/2394 loss: 3.6215, acc: 95.99%, time left (estimated): 0.00s
+2016-08-12 12:29:38,815 - BiLSTM-CNN-CRF - INFO - train: 2394/2394 loss: 3.6162, acc: 95.99%, time left (estimated): -0.11s
+2016-08-12 12:29:38,815 - BiLSTM-CNN-CRF - INFO - train: 2394/2394 loss: 3.6162, acc: 95.99%, time: 25.91s
+2016-08-12 12:29:42,373 - BiLSTM-CNN-CRF - INFO - dev loss: 0.9857, corr: 15109, total: 15483, acc: 97.58%
+2016-08-12 12:29:42,374 - BiLSTM-CNN-CRF - INFO - dev_err: 788.5768, best_loss: 1000000000000.0000, best_acc: 0.0000, dev_corr: 15109.0000, dev_total: 15483.0000, (dev_corr/dev_total): 0.9758
+2016-08-12 12:29:42,375 - BiLSTM-CNN-CRF - INFO - stop_count: 0.0000
+2016-08-12 12:30:49,864 - BiLSTM-CNN-CRF - INFO - test loss: 1.6229, corr: 15610, total: 16261, acc: 96.00%
+2016-08-12 12:30:49,865 - BiLSTM-CNN-CRF - INFO - final best loss test performance (at epoch 1)
+2016-08-12 12:30:49,865 - BiLSTM-CNN-CRF - INFO - final best acc test performance (at epoch 1)
+2016-08-12 12:30:49,866 - BiLSTM-CNN-CRF - INFO - test loss: 1.6229, corr: 15610, total: 16261, acc: 96.00%
+2016-08-12 12:30:49,866 - BiLSTM-CNN-CRF - INFO - test loss: 1.6229, corr: 15610, total: 16261, acc: 96.00%

@@ -1,0 +1,9 @@
+Using gpu device 0: Tesla M2050 (CNMeM is enabled with initial size: 95.0% of memory, cuDNN not available)
+Traceback (most recent call last):
+  File "bi_lstm_cnn_crf4.py", line 372, in <module>
+    main()
+  File "bi_lstm_cnn_crf4.py", line 95, in main
+    use_character=True)
+  File "/mnt/lustre/mbaxwke2/ner/ma/LasagneNLP-master/ner/lasagne_nlp/utils/data_processor.py", line 486, in load_dataset_sequence_labeling
+    max_length_dev = get_max_length(word_sentences_dev)
+NameError: global name 'word_sentences_dev' is not defined

@@ -1,0 +1,11 @@
+Using gpu device 0: Tesla M2050 (CNMeM is enabled with initial size: 95.0% of memory, cuDNN not available)
+Traceback (most recent call last):
+  File "bi_lstm_cnn_crf4.py", line 372, in <module>
+    main()
+  File "bi_lstm_cnn_crf4.py", line 95, in main
+    use_character=True)
+  File "/mnt/lustre/mbaxwke2/ner/ma/LasagneNLP-master/ner/lasagne_nlp/utils/data_processor.py", line 468, in load_dataset_sequence_labeling
+    dev_path, word_alphabet, label_alphabet, word_column, label_column)
+  File "/mnt/lustre/mbaxwke2/ner/ma/LasagneNLP-master/ner/lasagne_nlp/utils/data_processor.py", line 41, in read_conll_sequence_labeling
+    with open(path) as file:
+TypeError: coercing to Unicode: need string or buffer, NoneType found

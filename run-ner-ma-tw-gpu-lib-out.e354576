@@ -1,0 +1,455 @@
+Using gpu device 0: Tesla M2070 (CNMeM is enabled with initial size: 95.0% of memory, cuDNN not available)
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31261' (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31261' (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by unknown process (I am process '21467')
+INFO (theano.gof.compilelock): To manually release the lock, delete /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/lock_dir
+ERROR (theano.gof.opt): Optimization failure due to: constant_folding
+ERROR (theano.gof.opt): node: GpuFromHost(TensorConstant{(1, 1) of ...000298507})
+ERROR (theano.gof.opt): TRACEBACK:
+ERROR (theano.gof.opt): Traceback (most recent call last):
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1772, in process_node
+    replacements = lopt.transform(node)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/tensor/opt.py", line 5825, in constant_folding
+    no_recycling=[])
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/sandbox/cuda/__init__.py", line 256, in make_thunk
+    compute_map, no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 970, in make_thunk
+    no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 879, in make_c_thunk
+    output_storage=node_output_storage)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1200, in make_thunk
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1143, in __compile__
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1595, in cthunk_factory
+    key=key, lnk=self, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1108, in module_from_key
+    module = self._get_from_hash(module_hash, key, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1008, in _get_from_hash
+    key_data.add_key(key, save_pkl=bool(key[0]))
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 483, in add_key
+    self.save_pkl()
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 504, in save_pkl
+    with open(self.key_pkl, 'wb') as f:
+IOError: [Errno 2] No such file or directory: '/mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpuxCFqj/key.pkl'
+
+ERROR (theano.gof.opt): Optimization failure due to: constant_folding
+ERROR (theano.gof.opt): node: GpuFromHost(TensorConstant{(1, 1, 1) ...000298507})
+ERROR (theano.gof.opt): TRACEBACK:
+ERROR (theano.gof.opt): Traceback (most recent call last):
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1772, in process_node
+    replacements = lopt.transform(node)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/tensor/opt.py", line 5825, in constant_folding
+    no_recycling=[])
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/sandbox/cuda/__init__.py", line 256, in make_thunk
+    compute_map, no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 970, in make_thunk
+    no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 879, in make_c_thunk
+    output_storage=node_output_storage)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1200, in make_thunk
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1143, in __compile__
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1595, in cthunk_factory
+    key=key, lnk=self, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1108, in module_from_key
+    module = self._get_from_hash(module_hash, key, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1008, in _get_from_hash
+    key_data.add_key(key, save_pkl=bool(key[0]))
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 483, in add_key
+    self.save_pkl()
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 504, in save_pkl
+    with open(self.key_pkl, 'wb') as f:
+IOError: [Errno 2] No such file or directory: '/mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpuxCFqj/key.pkl'
+
+ERROR (theano.gof.opt): Optimization failure due to: constant_folding
+ERROR (theano.gof.opt): node: GpuFromHost(TensorConstant{(1,) of 0.000298507})
+ERROR (theano.gof.opt): TRACEBACK:
+ERROR (theano.gof.opt): Traceback (most recent call last):
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1772, in process_node
+    replacements = lopt.transform(node)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/tensor/opt.py", line 5825, in constant_folding
+    no_recycling=[])
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/sandbox/cuda/__init__.py", line 256, in make_thunk
+    compute_map, no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 970, in make_thunk
+    no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 879, in make_c_thunk
+    output_storage=node_output_storage)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1200, in make_thunk
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1143, in __compile__
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1595, in cthunk_factory
+    key=key, lnk=self, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1108, in module_from_key
+    module = self._get_from_hash(module_hash, key, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1008, in _get_from_hash
+    key_data.add_key(key, save_pkl=bool(key[0]))
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 483, in add_key
+    self.save_pkl()
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 504, in save_pkl
+    with open(self.key_pkl, 'wb') as f:
+IOError: [Errno 2] No such file or directory: '/mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpuxCFqj/key.pkl'
+
+ERROR (theano.gof.opt): Optimization failure due to: constant_folding
+ERROR (theano.gof.opt): node: GpuFromHost(TensorConstant{(1, 1) of ...000298507})
+ERROR (theano.gof.opt): TRACEBACK:
+ERROR (theano.gof.opt): Traceback (most recent call last):
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1772, in process_node
+    replacements = lopt.transform(node)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/tensor/opt.py", line 5825, in constant_folding
+    no_recycling=[])
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/sandbox/cuda/__init__.py", line 256, in make_thunk
+    compute_map, no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 970, in make_thunk
+    no_recycling)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/op.py", line 879, in make_c_thunk
+    output_storage=node_output_storage)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1200, in make_thunk
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1143, in __compile__
+    keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cc.py", line 1595, in cthunk_factory
+    key=key, lnk=self, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1108, in module_from_key
+    module = self._get_from_hash(module_hash, key, keep_lock=keep_lock)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1008, in _get_from_hash
+    key_data.add_key(key, save_pkl=bool(key[0]))
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 480, in add_key
+    assert key not in self.keys
+AssertionError
+
+Traceback (most recent call last):
+  File "bi_lstm_cnn_crf.py", line 333, in <module>
+    main()
+  File "bi_lstm_cnn_crf.py", line 292, in main
+    updates=updates)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/compile/function.py", line 320, in function
+    output_keys=output_keys)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/compile/pfunc.py", line 479, in pfunc
+    output_keys=output_keys)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/compile/function_module.py", line 1776, in orig_function
+    output_keys=output_keys).create(
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/compile/function_module.py", line 1456, in __init__
+    optimizer_profile = optimizer(fgraph)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 101, in __call__
+    return self.optimize(fgraph)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 89, in optimize
+    ret = self.apply(fgraph, *args, **kwargs)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 230, in apply
+    sub_prof = optimizer.optimize(fgraph)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 89, in optimize
+    ret = self.apply(fgraph, *args, **kwargs)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 230, in apply
+    sub_prof = optimizer.optimize(fgraph)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 89, in optimize
+    ret = self.apply(fgraph, *args, **kwargs)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 2196, in apply
+    lopt_change = self.process_node(fgraph, node, lopt)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1777, in process_node
+    lopt, node)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1673, in warn_inplace
+    return NavigatorOptimizer.warn(exc, nav, repl_pairs, local_opt, node)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/opt.py", line 1659, in warn
+    raise exc
+AssertionError
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLqP5Cc/ada04fa24588725a653ebb58886ce981.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLqP5Cc/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpDy7gQl/498f3ef49d2feb0274d9c965c57652dc.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpDy7gQl/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp0GfcbE/411afae422a806685f2a672c349242b7.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp0GfcbE/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpvKRo9L/d7342f88cc82338178eb4648b2a0e31e.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpvKRo9L/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnFyrqF/689591b172c97403ebf46e175da66378.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnFyrqF/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpivNGGg/4b4ddf2617f423020a0bffb041f89e17.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpivNGGg/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLpbPHg/6cad082928c1972ed2acfc307cc2bb93.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLpbPHg/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpDUSj9h/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLZ9nHK/ffebc71bd0de1f66331618d352e81b31.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLZ9nHK/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpgA8Wq3/32aa31611c6cdaca882351e4919cba44.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpgA8Wq3/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpNiOE8I/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqf7uv_/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpb0gsw3/07529259bf29e2ff4471b93cb749af0d.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpb0gsw3/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpSNCONm/111f4b79fb34ee05ecfb8ed8fc6b88fc.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpSNCONm/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpta0xGe/49998ffbdefdf18d464596bd95591cdb.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpta0xGe/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpv5K_3X/d365e41ef788b8b8b8c257b410dd402f.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpv5K_3X/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpzU48y8/a2cf08a558241b36c6419fdfa8ed7555.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpzU48y8/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnLmVh2/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpNhKrOn/5a8ea613aaa3bd0b1aede743b63fa3d2.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpNhKrOn/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpRGwl74/87835cdb7837af3b10f2161d99d5a201.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpRGwl74/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpPvY3Gx/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpbo8QFQ/6174b19f8005a60d6a2faaae7ff1c9a7.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpbo8QFQ/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpEYMFxE/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpu0ZT6E/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp1rnK9D/edba196692e795465f757a4384358e49.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp1rnK9D/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnJEhZ0/8b4e04134449d65f270c8e883535af91.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnJEhZ0/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpEsKnsH/5558d5d588540c868bea4e3d250b251f.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpEsKnsH/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpYUnobz/a1a827a288a19141253dfbfc50ccc4bd.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpYUnobz/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpYMtamv/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpufVa4A/17bb793a5efeb5f5891e50a2e8daccad.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpufVa4A/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpRm4r3P/7cbc4fc18d06a150634c1f3b8d86144d.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpRm4r3P/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqcVMMT/05f25415ce9d92d12353a614eaea17f4.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqcVMMT/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp_JWnSd/b48b4a08e6d44570f9e4130ac7e8f9b2.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp_JWnSd/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp2dHJ9H/12ae97a0c400d795e85d8fa2f43bf7bf.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp2dHJ9H/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpKF3bzm/e1a10f8ab0ba9840b555416b5ff7078d.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpKF3bzm/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpfxRpo1/1d50bf2bf82965c11b6aac9c666024b6.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpfxRpo1/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpcWHEHf/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqP3QRW/5c658ef0b993d8532f74594d21c066fc.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqP3QRW/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp7boxeF/34cecdf70372b18a0249ab92cef287de.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp7boxeF/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpkl_TlF/4e9fe7ad2989ccda9ffbcfe32d0e7d33.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpkl_TlF/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpkUjPnI/768cc4a19ea9d8e576ae9d6e91d888be.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpkUjPnI/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpIDtLb0/e21d96b8ad44741c8040eb72e086bcfb.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpIDtLb0/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpQ7Wggh/c733eca1f6384f2db684044952e1e62d.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpQ7Wggh/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpOKJ5KJ/f23d008ea9e9e560c2c542e578973ef3.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpOKJ5KJ/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLI4dfh/2fd84e82b5fcbb2cc8feb41f43eb7a76.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLI4dfh/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp69esex/9c89803928cf862cf0f71ca8044a4bf6.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp69esex/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpasAuM8/d471d1e51e47808df5d2c92d1817046c.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpasAuM8/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpk21yRz/94e3d0e26366772b21b1c9a23bac11b2.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpk21yRz/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpuyWlTa/13088e3cc71fa72426f0fcad0ba184d4.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpuyWlTa/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp6jnJFe/35738ebe96ae0604c66da5919a51de38.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp6jnJFe/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp_PInwW/f28d36ba0660d812f127c25d1b3594e4.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp_PInwW/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpEHS0Hz/cdd8dd564e02c3e0ffbee21b84df1bb6.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpEHS0Hz/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpD9SMWo/124f3d01f0308cabb1bb5ef60af2c4e0.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpD9SMWo/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpC06HcP/ee06f8cb9519d569d963aa52be8c19da.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpC06HcP/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLlxoHl/12656a0bdd7708fcde3665188df42733.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpLlxoHl/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqtpU2W/bbd3c241abecbf22dcd5e225956970ba.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqtpU2W/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpQoWeha/e6d3bd40b6f09fee6ebca6619f83ca95.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpQoWeha/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpW9ABbQ/f195cdee86aecafb67adc27e6a8c9040.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpW9ABbQ/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpMYyDaX/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmphj_kpb/b2c266a50a2b235579f23d46ca7198fc.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmphj_kpb/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpgfAtKN/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnlcOHS/0c691cc0edfa928a0451d26ccd23ed56.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnlcOHS/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp41ygC5/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnOX23o/88e6bad3f7abe9e33a88b45b438ff08e.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpnOX23o/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpO0zy0E/349b1ebc1b8aa0b436747d7e94e3fb06.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpO0zy0E/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpNBYpZl/d182d514dcff50f5dac92f0ef1227568.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpNBYpZl/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpGROVVw/0022808f212c800898bd4f02880e4695.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpGROVVw/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpKeZabs/ee2a41285d75ed0b6b3d91eac70e4a3c.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpKeZabs/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpgHbEHw/9854bfa6f034fe0d8f1c2131d4045172.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpgHbEHw/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp_GsL0L/d7c537dddfab2df56230ddec3479ef10.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp_GsL0L/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpj15IdD/f05ff693cf02e2d53da57ca83d7ba8f2.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpj15IdD/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpN1lpiX/246b5a0325fbb7fd46e6319667ce65f6.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpN1lpiX/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmphLDiBu/8f7c3767e091cb298f8abf2ba0993b7f.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmphLDiBu/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpOXgH7y/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpbMMPWX/ad4018d74a825c388667f3467ea7b47c.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpbMMPWX/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpoMJIDE/0e9448cc7a9c0c3711b32140dc2810cf.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpoMJIDE/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpdkjdAu/0798869c1fea4b7d53e9bb61a8b93cde.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpdkjdAu/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp58VGnA/8db4e9bcf00e8f1b100365910a4cf701.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp58VGnA/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp8AlLMn/96604d59983790382c967ff11d8a8179.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp8AlLMn/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmprnwn_g/fe11fc664b7d12764eac57e6d3ba99a0.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmprnwn_g/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpMUYIfy/e272626fce8242df38e99a5ea7f34d67.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpMUYIfy/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmp3TC5OF/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqYGDKC/5c792ef96f89f6c2a74eb9ef5f467f5f.so... this could lead to problems.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpqYGDKC/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): Removing key file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpZaXIly/key.pkl because the corresponding module is gone from the file system.
+WARNING (theano.gof.cmodule): A module that was loaded by this ModuleCache can no longer be read from file /mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/tmpuxCFqj/da6ac6908198a9d83223e8a2be6b76b9.so... this could lead to problems.
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/opt/gridware/apps/binapps/anaconda/2.5.0/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1466, in _on_atexit
+    self.clear_old()
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1277, in clear_old
+    cleanup=False)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 945, in refresh
+    key_data.delete_keys_from(self.entry_from_key)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 535, in delete_keys_from
+    del entry_from_key[key]
+KeyError: (((2,), (11, 13, '1.11.1'), (3,)), ('CLinker.cmodule_key', ('-DCUDA_NDARRAY_CUH=c72d035fdf91890f3b36710688069b2e', '-DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION', '-O3', '-Wno-unused-label', '-Wno-unused-variable', '-Wno-write-strings', '-arch=sm_20', '-fno-math-errno'), ('cublas', 'cuda_ndarray', 'cudart'), ('/mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/cuda_ndarray', '/opt/gridware/libs/nvidia-cuda/toolkit/5.5.22/toolkit/include'), 'NPY_ABI_VERSION=0x1000009', 'c_compiler_str=nvcc 5.5', 'md5:7339d2e1d827a4b2e37de8e8a6a551c0', (<theano.sandbox.cuda.basic_ops.GpuFromHost object at 0x2ad1aa7eb990>, ((TensorType(float32, (True,)), (('74030eb24205244ca8d244d64e49e3e9', 0, 0), False)),), (1, (False,)))))
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "/opt/gridware/apps/binapps/anaconda/2.5.0/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1466, in _on_atexit
+    self.clear_old()
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 1277, in clear_old
+    cleanup=False)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 945, in refresh
+    key_data.delete_keys_from(self.entry_from_key)
+  File "/opt/gridware/apps/binapps/theano/0.8.2/lib/python2.7/site-packages/theano/gof/cmodule.py", line 535, in delete_keys_from
+    del entry_from_key[key]
+KeyError: (((2,), (11, 13, '1.11.1'), (3,)), ('CLinker.cmodule_key', ('-DCUDA_NDARRAY_CUH=c72d035fdf91890f3b36710688069b2e', '-DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION', '-O3', '-Wno-unused-label', '-Wno-unused-variable', '-Wno-write-strings', '-arch=sm_20', '-fno-math-errno'), ('cublas', 'cuda_ndarray', 'cudart'), ('/mnt/iusers01/nactem01/mbaxwke2/.theano/compiledir_Linux-2.6-el6.x86_64-x86_64-with-redhat-6.6-Carbon-x86_64-2.7.11-64/cuda_ndarray', '/opt/gridware/libs/nvidia-cuda/toolkit/5.5.22/toolkit/include'), 'NPY_ABI_VERSION=0x1000009', 'c_compiler_str=nvcc 5.5', 'md5:7339d2e1d827a4b2e37de8e8a6a551c0', (<theano.sandbox.cuda.basic_ops.GpuFromHost object at 0x2ad1aa7eb990>, ((TensorType(float32, (True,)), (('74030eb24205244ca8d244d64e49e3e9', 0, 0), False)),), (1, (False,)))))

@@ -1,0 +1,8 @@
+#!/bin/bash
+#$ -S /bin/bash
+#$ -cwd             # Job will run from the current directory
+#$ -V               # Job will inherit current environment settings
+##### Use ONE of the following to select a GPU node
+#$ -l nvidia       # Nvidia M2050
+
+./run_bi-lstm-cnn-crf-gpu-lib-out-crf3.sh

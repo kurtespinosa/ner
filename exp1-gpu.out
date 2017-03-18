@@ -1,0 +1,1 @@
+./run-ner-ma-tw-gpu: line 8: ./run_bi-lstm-cnn-crf-gpu.sh: Permission denied

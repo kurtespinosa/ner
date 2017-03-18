@@ -1,0 +1,6 @@
+2016-08-12 11:20:06,108 - LoadData - INFO - Reading data from training set...
+2016-08-12 11:20:06,418 - LoadData - INFO - #sentences: 3194, #tokens: 61952
+2016-08-12 11:20:06,418 - LoadData - INFO - Reading data from test set...
+2016-08-12 11:20:06,496 - LoadData - INFO - #sentences: 1000, #tokens: 16261
+2016-08-12 11:20:06,496 - LoadData - INFO - word alphabet size: 21
+2016-08-12 11:20:06,497 - LoadData - INFO - label alphabet size: 21
